@@ -1,0 +1,27 @@
+{
+  "name": "as-factory",
+  "version": "0.0.1",
+  "description": "Create factories from classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hzdg/as-factory.js.git"
+  },
+  "keywords": [
+    "new",
+    "functional",
+    "constructors"
+  ],
+  "author": "Matthew Dapena-Tretter <m@tthewwithanm.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hzdg/as-factory.js/issues"
+  },
+  "homepage": "https://github.com/hzdg/as-factory.js",
+  "dependencies": {
+    "fill-keys": "^1.0.1"
+  }
+}
